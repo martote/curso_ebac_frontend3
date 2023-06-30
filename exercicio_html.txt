@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formulários</title>
+</head>
+<body>
+    <h1>formulário de cadastro</h1>
+    <form>
+        <label for="nome">nome</label>
+        <input type="text" />
+    <br />
+<label for="email">e-mail</label>
+<input id="email" type="email" />
+<br />
+<label for="senha">senha</label>
+<input type="text" />
+<br />
+<input type="button">realizar cadastro</form>
+<input type="sugestão" placeholder="sua sugestão" />
+<p>
+    Nivel de satisfação??
+</p>
+<input type="number" max="10" min="0" step="0" />
+</form>
+</body>
+</html>
