@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal de noticias</title>
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <header>
+        <h1>Portal de noticias</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#" title="ir para seção de entretenimento">entretenimento</a>
+                </li>
+                <li>
+                    <a href="#" title="ir para a seção de tecnologia">tecnologia</a>36
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>entretenimento</h2>
+        <article>
+            <img src="https://www.bastidoresdatv.com.br/wp-content/uploads/2021/03/o-poder-do-entretenimento-na-TV-800x445.jpg" alt="familia assistindo" />
+            <header>
+                <time>30/06/2023 as 10:47</time>
+            </header>
+            <h3>A importancia de se entreter</h3>
+            <p>
+                o entretenimento será o escape para conseguir deixar para trás os problemas diários e entender que existe uma verdadeira distinção entre essas duas vidas.
+            </p>
+            <a href="#" title="leia a noticia completa">ler mais</a>
+        </article>
+    </section>
+    <section id="tecnologia"></section>
+        <h2>tecnologia</h2>
+        <article>
+            <img src="https://th.bing.com/th/id/OIP.BvmniGdul0atwe7E9zTZIwHaEr?w=237&h=180&c=7&r=0&o=5&pid=1.7" alt="segurando celular" />
+            <header>
+                <time>30/06/2023</time>
+            </header>
+            <h3>Importancia da tecnologia</h3>
+            <p>
+                As iniciativas digitais construídas sobre bases sólidas poderão trazer, aos governos, benefícios que vão muito além daqueles tradicionalmente auferidos.
+            </p>
+            <a href="#" title="leia a noticia completa">ler mais</a>
+</article>
+            </header>
+        </article>
+    </section>
+    
+</body>
+</html>
